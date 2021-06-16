@@ -1,14 +1,13 @@
-package com.example.ex1;
+package org.zerock.ex02;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class Ex02ApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("contextLoads...");
     }
 
 }
